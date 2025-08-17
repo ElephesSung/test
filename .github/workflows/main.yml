@@ -7,6 +7,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        users: ElephesSung/test_2@main
+        uses: ElephesSung/test_2@main
 
       
